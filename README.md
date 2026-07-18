@@ -49,11 +49,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 <p align="left">
   <img 
     width="49%" 
-    src="https://github-readme-stats-git-master-pietro77.vercel.app/api?username=Pietroehrich7&show_icons=true&theme=holi&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"
+    src="https://github-readme-stats-alpha-gray-90.vercel.app/api?username=Pietroehrich7&show_icons=true&theme=holi&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"
   />
 
   <img 
     width="37%" 
-    src="https://github-readme-stats-git-master-pietro77.vercel.app/api/top-langs/?username=Pietroehrich7&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true"
+    src="https://github-readme-stats-alpha-gray-90.vercel.app/api/top-langs/?username=Pietroehrich7&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true"
   />
 </p>
