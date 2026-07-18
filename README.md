@@ -35,14 +35,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 <img align="left" alt="JavaScript" title="JavaScript" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 
-<img align="left" alt="TypeScript" title="TypeScript" width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-
 <img align="left" alt="Python" title="Python" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-
-<img align="left" alt="Lua" title="Lua" width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
 
 <br/>
 <br/>
