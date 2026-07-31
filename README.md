@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Meu nome é Pietro Ehrich, sou do Rio de Janeiro e atualmente curso Ciência da Computação na Estácio. Sou apaixonado por tecnologia e desenvolvimento de software, com foco em aprimorar continuamente minhas habilidades em programação e na criação de soluções digitais eficientes. Estou sempre em busca de novos conhecimentos, desafios e oportunidades para evoluir como desenvolvedor e contribuir com projetos.
+Meu nome é Pietro Ehrich, sou do Rio de Janeiro e atualmente curso Ciências da Computação na Estácio. Sou apaixonado por tecnologia e desenvolvimento de software, com foco em aprimorar continuamente minhas habilidades em programação e na criação de soluções digitais eficientes. Estou sempre em busca de novos conhecimentos, desafios e oportunidades para evoluir como desenvolvedor e contribuir com projetos.
 
 <p align="left">
   <a href="https://github.com/Pietroehrich7?tab=repositories&sort=stargazers">
